@@ -136,7 +136,7 @@ class Navbar extends React.Component {
               <li className="nav-item">
                 <a
                   className="nav-link js-scroll"
-                  href="https://drive.google.com/file/d/1HbRVBeFVk26zUlAhp3u7yl70RKX2xahP/view?usp=sharing"
+                  href="https://drive.google.com/drive/folders/1nmkakcGJqEvRIq1At89y5PfzynowpmC_?usp=sharing"
                   target="_blank"
                 >
                   View Cv
