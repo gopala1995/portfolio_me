@@ -1,7 +1,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
-import logo2 from "../img/Gopala13.png";
+import logo2 from "../img/GopalaPic.jpg";
 class Intro extends React.Component {
   render() {
     return (
